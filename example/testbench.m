@@ -4,6 +4,7 @@
 % Golmud
 % ======================================================================= %
 clear
+addpath(genpath('..'),'-end');
 % some settings here
 % terminating RMS misfit
 Trms=1.5;
