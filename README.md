@@ -3,10 +3,10 @@ Toy Occam inversion code for 1D DC  (Schlumberger) method in Matlab
 
 ## DATA
 The example data are (literally) copied from Table 4 of the Constable 1989 paper
+
 see: 
-Constable, S. C., Parker, R. L., & Constable, C. G. (1987). Occam’s 
-inversion: A practical algorithm for generating smooth models from 
-electromagnetic sounding data. Geophysics, 52(3), 289–300. 
+Constable, S. C., Parker, R. L., & Constable, C. G. (1987). Occam’s inversion: A practical algorithm for generating smooth models from electromagnetic sounding data. Geophysics, 52(3), 289–300. 
+
 still not easy to imagine how you do an AB for 20,000 m(?
 
 ## USAGE
@@ -14,7 +14,8 @@ See example/testbench.m for a simple demonstration on how to load the data and c
 
 ## something like a disclaimer
 
-This was one of many toy codes I fiddled with when I was a student - I hope this could be useful to our students nowadays in the EM community. Those who want to try this script are free to use it on academic/educational cases. But of course, I cannot guarantee the script to be working properly and calculating correctly (although I wish so). Have you any questions or suggestions, please feel free to contact me (but don't you expect that I will reply quickly!).  
+This was one of many toy codes I fiddled with when I was a student - I hope this could be useful to our students nowadays in the EM community. 
+Those who want to try this script are free to use it on academic/educational cases. But of course, I cannot guarantee the script to be working properly and calculating correctly (although I wish so). Have you any questions or suggestions, please feel free to contact me (but don't you expect that I will reply quickly!).  
 
 ## HOW TO GET IT
 ```
