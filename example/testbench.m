@@ -19,7 +19,7 @@ l = tmp{1}(1:end-1)';
 % depth of each layer INTERFACE, note that z1=0
 z = cumsum([0 l]);
 nz = length(l);
-% read a DC sounding data file, which are the 
+% read a DC sounding data file, which includes the 
 % 1D schlumberger resistivity data published by constable et al. (1985)
 fid = fopen('aushield.dat');
 tmp = textscan(fid,'%f %f %f','CommentStyle', '#');
