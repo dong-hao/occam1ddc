@@ -2,7 +2,7 @@
 Toy Occam inversion code for 1D DC  (Schlumberger) method in Matlab 
 
 ## DATA
-The example data are (literally) copied from Table 4 of the Constable 1989 paper
+The example data are (literally) copied from Table 4 of the Constable 1987 paper
 
 see: 
 Constable, S. C., Parker, R. L., & Constable, C. G. (1987). Occam’s inversion: A practical algorithm for generating smooth models from electromagnetic sounding data. Geophysics, 52(3), 289–300. 
