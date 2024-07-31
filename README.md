@@ -8,9 +8,9 @@ Constable, S. C., Parker, R. L., & Constable, C. G. (1987). Occam’s inversion:
 
 still not easy to imagine how you do an AB for 20,000 m(?
 
-see also my toy occam code for magnetotellurics:
+see also my toy occam code for transient EM:
 
-[https://github.com/dong-hao/occam1dmt]
+[https://github.com/dong-hao/occam1dtem]
 
 ## USAGE
 See example/testbench.m for a simple demonstration on how to load the data and call the inversion code. 
